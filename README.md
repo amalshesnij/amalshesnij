@@ -5,11 +5,14 @@
 I ran operations and sales for a bespoke uniform business in Doha, then handled ledger reconciliation, GST compliance, payroll and monthly reporting for a garment manufacturer in Bengaluru. I now use SQL, Python and Power BI to turn business data into decisions.
 
 ### 🛠 Tools
-`SQL` · `Python (pandas, NumPy, Matplotlib)` · `Power BI` · `DAX` · `Excel`
+`SQL` · `Python (pandas, NumPy, SciPy, Matplotlib)` · `Statistics & Hypothesis Testing` · `Power BI` · `DAX` · `Excel`
 
 ### 📂 Featured work
 | Project | Tools | What it shows |
 |---|---|---|
+| [E-Commerce Marketing Analytics](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Ecommerce-Marketing-Analytics) | Python | 8-table capstone: retention, segmentation, cross-selling, delivery impact on ratings |
+| [Credit Card Spend & Repayment](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Credit-Card-Analysis) | Python | Business-rule cleaning, bank profit calculation, custom ranking function |
+| [Hypothesis Testing](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Hypothesis-Testing) | Python, SciPy | t-tests, ANOVA and Kruskal-Wallis on 5 business problems |
 | [Retail Customer Analysis](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Retail-Customer-Analysis) | Python | Merging messy data, composite keys, customer segmentation |
 | [Power BI Ecommerce Dashboard](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/PowerBI) | Power BI, DAX | 4-page dashboard on pricing, promotions and brands |
 | [SQL Case Studies](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/SQL) | SQL | Joins, window functions, CTEs |
