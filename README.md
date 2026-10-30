@@ -11,6 +11,7 @@ I ran operations and sales for a bespoke uniform business in Doha, then handled 
 | Project | Tools | What it shows |
 |---|---|---|
 | [E-Commerce Marketing Analytics](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Ecommerce-Marketing-Analytics) | Python | 8-table capstone: retention, segmentation, cross-selling, delivery impact on ratings |
+| [Insurance Claims Analysis](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Insurance-Claims-Analysis) | Python, SciPy | Fraud patterns, date-cleaning fix, 5 hypothesis tests with business implications |
 | [Credit Card Spend & Repayment](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Credit-Card-Analysis) | Python | Business-rule cleaning, bank profit calculation, custom ranking function |
 | [Hypothesis Testing](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Hypothesis-Testing) | Python, SciPy | t-tests, ANOVA and Kruskal-Wallis on 5 business problems |
 | [Retail Customer Analysis](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Retail-Customer-Analysis) | Python | Merging messy data, composite keys, customer segmentation |
